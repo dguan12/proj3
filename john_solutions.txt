@@ -1,0 +1,12 @@
+john
+Error: no radius found
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 4: Circle's circumference is 25.12 and area is 50.24
+radius 6: Circle's circumference is 37.68 and area is 113.04
+radius 6: Circle's circumference is 37.68 and area is 113.04
+side 4: Rectangle's perimeter is 16.0 and area is 16.0
+side 6: Rectangle's perimeter is 24.0 and area is 36.0
